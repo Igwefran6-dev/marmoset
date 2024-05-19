@@ -66,7 +66,7 @@ Marmoset is open-source and available under the MIT License. See the [LICENSE](L
 
 ## Contact
 
-For questions or support, please reach out to the project maintainer at igwefran6-dev.email@gmail.com.
+For questions or support, please reach out to the project maintainer at igwefran6@gmail.com.
 
 ---
 
